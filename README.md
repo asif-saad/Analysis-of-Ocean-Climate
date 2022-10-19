@@ -1,2 +1,1 @@
- - [] Checkbox not checked
- - [X] Checkbox checked
+- documentation required for columns
