@@ -1,9 +1,16 @@
-- documentation required for columns
+## <i>required task!!!!!</i>
+<br>
+
+- use various kernels
+
+- hyper parameter tuning
+
+- cleaning up code
 
 
 
 
-
+<br><br>
 
 
 | column | unit | Description |
