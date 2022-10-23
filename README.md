@@ -42,3 +42,8 @@
 3. R2 score
 4. Adjusted R2 score
 
+
+## Steps followed:
+
+- Pearson Correlation Coefficient used ( use Spearman Correlation Coefficient next time)
+
