@@ -1,9 +1,7 @@
 ## <i>required task!!!!!</i>
 <br>
 
-- use various kernels
-
-- hyper parameter tuning
+- requires working more on kernel modification, kernel trick
 
 - cleaning up code
 
