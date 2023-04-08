@@ -1,11 +1,4 @@
-## <i>required task!!!!!</i>
-<br>
-
-- requires working more on kernel modification, kernel trick
-
-- cleaning up code
-
-- make sure no irrelevant data is used
+## Attributes in Dataset
 
 
 
@@ -29,19 +22,29 @@
 | DIC | µmol kg-1 | Dissolved inorganic carbon (DIC) [ DIC in µmol kg −1 ] is present in all natural waters. The concentration of DIC varies from less than 20 μM in acidic soft waters to more than 5000 μM in highly alkaline hard waters, but ranges between 100 and 1000 μM in most systems. DIC is usually the most abundant form of C in water. DIC consists of three main constituents: free CO2 (a gas), the bicarbonate ion (HCO3−), and the carbonate ion (CO32 −). Bicarbonate and carbonate constitute the major buffers in most natural waters and account for most of the acid neutralizing capacity (ANC; also called alkalinity). Free CO2 is the most dynamic of the constituents of DIC and is the dominant acid in most natural waters. The ratio of CO2 to HCO3− and CO32 − is the major control of pH in most natural waters. Although CO2, like other gases, readily exchanges with the atmosphere, even the surface waters of most inland systems are far from equilibrium and are usually supersaturated with respect to the atmosphere. A number of factors cause this disequilibrium. |
 
 
+<hr>
+<br><br>
 
-
-
-## Methods used for regression evaluation
-
+## Evaluation Metrics
 
 1. MSE
 2. RMSE
-3. R2 score
-4. Adjusted R2 score
+3. R-squared score
+4. Adjusted R-squared score
 
 
-## Steps followed:
+## Methods utilised:
 
 - Pearson Correlation Coefficient used ( use Spearman Correlation Coefficient next time)
 
+
+
+## Transformation Kernels
+
+- Gaussian kernel
+
+- Polynomial kernel
+
+- Sigmoid kernel
+
+- Hyperbolic sine kernel
